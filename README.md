@@ -78,5 +78,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 ![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/5.png)
 
 
-![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/Dashboard.pdf)
+
+**Dashboard:**
+![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/Dashboard.png)
 
