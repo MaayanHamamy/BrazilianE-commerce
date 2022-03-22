@@ -67,7 +67,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 ![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/4.png)
 
 
-***Total Revenue Per Category (Top 10 from 71 Categories)***
+***Total Revenue Per Category (Top 10)***
 
 
 
