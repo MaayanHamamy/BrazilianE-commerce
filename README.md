@@ -21,7 +21,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 **Data Analysis:**
 
 ***Total Revenue Per Customer***
-![]
+![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/1.png)
 
 - Paraíba is the state with the highest revenue per customer ($R257).
 - The majority of the customers are located in Sao Paulo (41,732 customers).
