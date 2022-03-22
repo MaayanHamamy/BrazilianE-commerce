@@ -76,3 +76,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 - Only 9% from the total orders belongs to health/beauty category.
 
 ![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/5.png)
+
+
+![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/Dashboard.pdf)
+
