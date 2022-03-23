@@ -1,4 +1,4 @@
-# BrazilianE-commerce
+# Brazilian E-commerce
 
 **Data Description:**
 100K orders from 2016 to 2018 made at multiple marketplaces in Brazil.
