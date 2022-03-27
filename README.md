@@ -80,5 +80,8 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 
 **Dashboard:**
-![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/Dashboard.png)
 
+https://public.tableau.com/app/profile/maayan.hamamy/viz/BrazilianE-commerece/Dashboard1
+
+
+![](https://github.com/MaayanHamamy/BrazilianE-commerce/blob/main/Dashboard.png)
